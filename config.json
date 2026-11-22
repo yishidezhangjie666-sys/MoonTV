@@ -28,6 +28,26 @@
     "modu": {
       "api": "https://caiji.moduapi.cc/api.php/provide/vod",
       "name": "魔都资源"
+    },
+    "xinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新狼资源"
+    },
+    "liangzi": {
+      "api": "http://cj.lziapi.com/api.php/provide/vod",
+      "name": "量子资源"
+    },
+    "hongniu": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "jinying": {
+      "api": "http://jyzyapi.com/api.php/provide/vod",
+      "name": "金鹰资源"
+    },
+    "feifan2": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "name": "非凡备用"
     }
   }
 }
